@@ -7,7 +7,7 @@
 //
 
 #import "MGAlertView.h"
-#import <Masonry.h>
+#import "Masonry.h"
 
 
 #define RGB_HEX(hexColor) [UIColor colorWithRed:(((hexColor >> 16) & 0xFF))/255.0f         \

@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.source_files  = "MGAlertView/MGAlertView/Code/*.{h,m}"
 
   # s.public_header_files = "Classes/**/*.h"
-  s.dependency  'Masonry'
+  s.dependency  "Masonry"
 
   s.requires_arc = true
 
